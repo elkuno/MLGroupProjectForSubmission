@@ -3,9 +3,11 @@ CS 4320 Machine Learning Group Project doing [Leaf Classification](#competition-
 
 ## Important Information
 
+You need to start with [traditional_models.ipynb](traditional_models.ipynb) because it contains all of the preprocessing necessary for the [Deep Learning Models](#deep-learning-models---score) as well.
+
 We have split the models up into two different sections. [Traditional Models](#traditional-models---score) are what you think of when you think of Machine Learning (Random Forests, Decision Trees, KNN, etc.). [Deep Learning Models](#deep-learning-models---score) are models that use the Neural Network framework with many layers (ConvNet, MultiLayer Perceptron, Multimodal NN, etc.). 
 
-These are split into two different sets of files. [Traditional Models](#traditional-models---score) use [traditional_models.ipynb](traditional_models.ipynb), [requirements.txt](requirements.txt). [Deep Learning Models](#deep-learning-models---score) use .
+These are split into two different sets of files. [Traditional Models](#traditional-models---score) use [traditional_models.ipynb](traditional_models.ipynb), [requirements.txt](requirements.txt). [Deep Learning Models](#deep-learning-models---score) use other notebooks, and will be submitted alongside the Traditional Models files.
 
 ### Deep Learning Models
 - ***ONLY*** runs/tested in Python **3.11.7**. We have not gotten it to work in ANY other version
