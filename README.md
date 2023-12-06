@@ -1,30 +1,18 @@
 # MLGroupProject
 CS 4320 Machine Learning Group Project doing [Leaf Classification](#competition-link)
 
-## Quickstart
+## Important Information
 
-### 1. Set up a Virtual Environment
-```sh
-python -m venv mlenv2
-```
+We have split the models up into two different sections. [Traditional Models](#traditional-models---score) are what you think of when you think of Machine Learning (Random Forests, Decision Trees, KNN, etc.). [Deep Learning Models](#deep-learning-models---score) are models that use the Neural Network framework with many layers (ConvNet, MultiLayer Perceptron, Multimodal NN, etc.). 
 
-### 2. Activate the Virtual Environment
+These are split into two different sets of files. [Traditional Models](#traditional-models---score) use [traditional_models.ipynb](traditional_models.ipynb), [requirements.txt](requirements.txt). [Deep Learning Models](#deep-learning-models---score) use .
 
-- **Bash:**
-```sh
-. mlenv2/Scripts/activate
-```
+### Deep Learning Models
+- ONLY runs/tested in Python 3.11.7. We have not gotten it to work in ANY other version
+- The process for running these is QUITE involved. Should you try, we cannot really offer too good a guide. Please reach out to us if you do not think this is satisfactory.
 
-### 3. Install the Required Packages
-```sh
-pip install -r requirements.txt
-```
-
-## Deactivating the Virtual Environment
-Once you're done, you can deactivate the virtual environment by simply running:
-```sh
-deactivate
-```
+### Traditional Models
+- Only tested in Python 3.11.1
 
 ## Auxiliary Information
 ### Slides Link:
