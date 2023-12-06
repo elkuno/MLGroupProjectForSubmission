@@ -8,11 +8,11 @@ We have split the models up into two different sections. [Traditional Models](#t
 These are split into two different sets of files. [Traditional Models](#traditional-models---score) use [traditional_models.ipynb](traditional_models.ipynb), [requirements.txt](requirements.txt). [Deep Learning Models](#deep-learning-models---score) use .
 
 ### Deep Learning Models
-- ONLY runs/tested in Python 3.11.7. We have not gotten it to work in ANY other version
-- The process for running these is QUITE involved. Should you try, we cannot really offer too good a guide. Please reach out to us if you do not think this is satisfactory.
+- ***ONLY*** runs/tested in Python **3.11.7**. We have not gotten it to work in ANY other version
+- The process for running these is ***QUITE*** involved. Should you try, we cannot really offer too good a guide. Please reach out to us if you do not think this is satisfactory.
 
 ### Traditional Models
-- Only tested in Python 3.11.1
+- Only tested in Python **3.11.1**
 
 ## Auxiliary Information
 ### Slides Link:
